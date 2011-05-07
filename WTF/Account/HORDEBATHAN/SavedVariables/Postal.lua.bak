@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Pappo|Burning Blade|Alliance|71|DRUID", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Pappo - Burning Blade"] = "Pappo - Burning Blade",
+	},
+	["profiles"] = {
+		["Pappo - Burning Blade"] = {
+		},
+	},
+}

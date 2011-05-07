@@ -1,0 +1,20 @@
+------------------------------------------------------------------------
+r206 | cyprias | 2011-05-02 07:47:57 +0000 (Mon, 02 May 2011) | 2 lines
+Changed paths:
+   A /tags/1.8.0 (from /trunk:201)
+
+Tagged as 1.8.0
+- Updated for 4.1.
+------------------------------------------------------------------------
+r201 | acapela | 2011-04-26 20:59:32 +0000 (Tue, 26 Apr 2011) | 1 line
+Changed paths:
+   M /trunk/frames.lua
+
+changed core:AddBuffsToPlate() to rebuild buff frames when nameplate has not yet been initialized from its core:AddUnknownIcon() state.
+------------------------------------------------------------------------
+r200 | acapela | 2011-04-26 20:49:06 +0000 (Tue, 26 Apr 2011) | 1 line
+Changed paths:
+   M /trunk/PlateBuffs.toc
+
+updated TOC to 40100 (WoW 4.1).
+------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+tag 3.0.6
+21f37429ac7e48eeb763b78de9a6ba4ee3e34ccf
+James Whitehead II <jnwhiteh@gmail.com>
+2011-04-27 13:05:04 +0100
+
+Tagging 3.0.6
+
+
+--------------------
+
+James Whitehead II:
+	- Update TOC for 4.1
+	- Update COMBAT_LOG_EVENT_UNFILTERED handlers

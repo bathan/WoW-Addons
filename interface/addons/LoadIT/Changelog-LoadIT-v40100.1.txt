@@ -1,0 +1,12 @@
+tag v40100.1
+1da97bf28d97eab1139b9a0bc922b5834d7ac14c
+Peter Kjellerstedt <peter.kjellerstedt@gmail.com>
+2011-04-28 13:14:36 +0200
+
+Tag as v40100.1
+
+
+--------------------
+
+Peter Kjellerstedt:
+	- Update the .toc to match 4.1
